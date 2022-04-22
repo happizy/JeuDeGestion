@@ -10,8 +10,8 @@
 ### tests de l'interface graphique (non concluants / délais non-tenables) ((ne payez pas attention aux chatons, ils sont là pour tester le bon fonctionnement des plusieurs couches d'affichage)) :
 
 <img src="./pics/King.PNG" alt="test_graphique-1"/>
-<img src="./pics/king2.PNG" alt="test_graphique-2"/>
-<img src="./pics/king3.PNG" alt="test_graphique-3"/>
+<img src="./pics/King2.PNG" alt="test_graphique-2"/>
+<img src="./pics/King3.PNG" alt="test_graphique-3"/>
 
 ---
 
